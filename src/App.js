@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import {Group, Filmm} from './components/Film/Film';
+// import {Groupf, Filmm} from './components/Film/Film';
+import {Groupp, Page} from './components/Page/Page';
 
 function App() {
   return (
     <div className="App">
-      <Group/>
+      <Groupp/>
+      {/* <Groupf/> */}
     </div>
   );
 }

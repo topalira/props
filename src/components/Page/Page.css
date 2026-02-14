@@ -1,21 +1,21 @@
-#mainf {
+#mainp {
     width: 700px;
     border: 1px solid black;
     text-align: center;
-    background-color: rgb(14, 40, 10);
+    background-color: rgb(42, 68, 20);
     color: white;
     border-radius: 10px;
     padding: 20px;
     margin: 10px;
 }
 
-#mainf img {
-    width: 500px;
+#mainp img {
+    width: 300px;
     margin-top: 10px;
     border-radius: 10px;
 }
 
-#containerf {
+#containerp {
     display: flex;
     justify-content: space-around;
 }
